@@ -6,5 +6,81 @@
     "date": "11/01/2019",
     "pset": "DICYUS33",
     "ccode": "S33"
-  }]
+  }],
+  "userData": [{
+      "account": "AAA - 5920",
+      "availableCash": {
+        "currValue": "1000.99",
+        "rate": "0.21",
+        "prevValue": "8916.89"
+      }
+    },
+    {
+      "account": "IRA - 0123",
+      "availableCash": {
+        "currValue": "2000.99",
+        "rate": "-0.11",
+        "prevValue": "3916.89"
+      }
+    },
+    {
+      "account": "REG - 3810",
+      "availableCash": {
+        "currValue": "3000.99",
+        "rate": "1.21",
+        "prevValue": "7916.89"
+      }
+    },
+    {
+      "account": "IRA - 2019",
+      "availableCash": {
+        "currValue": "4000.99",
+        "rate": "-0.51",
+        "prevValue": "10916.89"
+      }
+    },
+    {
+      "account": "AAA - 1812",
+      "availableCash": {
+        "currValue": "5000.99",
+        "rate": "0.01",
+        "prevValue": "1916.89"
+      }
+    },
+    {
+      "account": "REG - 0146",
+      "availableCash": {
+        "currValue": "6000.99",
+        "rate": "1.21",
+        "prevValue": "11916.89"
+      }
+    },
+    {
+      "account": "REG - 0029",
+      "availableCash": {
+        "currValue": "7000.99",
+        "rate": "-0.21",
+        "prevValue": "19916.89"
+      }
+    },
+    {
+      "account": "AAA - 1092",
+      "availableCash": {
+        "currValue": "8000.99",
+        "rate": "0.09",
+        "prevValue": "5616.89"
+      }
+    },
+    {
+      "account": "IRA - 2381",
+      "availableCash": {
+        "currValue": "9000.99",
+        "rate": "0.11",
+        "prevValue": "2816.89"
+      }
+    }
+
+  ]
+
+
 }
